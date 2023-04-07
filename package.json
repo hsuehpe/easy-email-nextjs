@@ -9,14 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@arco-themes/react-easy-email-theme-purple": "^0.0.3",
     "@types/node": "18.15.10",
     "@types/react": "18.0.29",
     "@types/react-dom": "18.0.11",
+    "@hsuehpe/easy-email-core": "^4.11.3",
+    "@hsuehpe/easy-email-editor": "^4.11.5",
+    "@hsuehpe/easy-email-extensions": "^4.11.6",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-final-form": "^6.5.9",
     "typescript": "5.0.2"
   }
 }
